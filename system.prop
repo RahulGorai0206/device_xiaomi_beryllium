@@ -6,3 +6,9 @@ ro.recovery.ui.margin_height=87
 
 # Graphics
 ro.surface_flinger.has_HDR_display=true
+
+# Spark-OS
+ro.spark.device.name=Poco F1
+ro.spark.group.url=https://t.me/pocof1sup
+ro.spark.maintainer=Rahul Gorai
+ro.spark.maintainer.username=RahulGorai

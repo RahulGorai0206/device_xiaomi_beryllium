@@ -43,3 +43,6 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/beryllium/BoardConfigVendor.mk
+
+# System props
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
