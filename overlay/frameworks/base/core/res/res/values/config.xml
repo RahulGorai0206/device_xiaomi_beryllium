@@ -698,4 +698,8 @@
         <item>2</item> <!-- COLOR_MODE_SATURATED -->
         <item>3</item> <!-- COLOR_MODE_AUTOMATIC -->
     </integer-array>
+
+    <!-- 300 seconds for default screen timeout -->
+    <integer name="def_screen_off_timeout">300000</integer>
+
 </resources>
