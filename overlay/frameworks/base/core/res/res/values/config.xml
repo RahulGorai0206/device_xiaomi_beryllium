@@ -690,4 +690,8 @@
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
     <dimen name="rounded_corner_radius_top">104px</dimen>
+
+    <!-- 300 seconds for default screen timeout -->
+    <integer name="def_screen_off_timeout">300000</integer>
+
 </resources>
