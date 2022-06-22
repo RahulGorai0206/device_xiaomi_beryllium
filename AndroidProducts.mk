@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_beryllium.mk
+    $(LOCAL_DIR)/beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_beryllium-user \
-    spark_beryllium-userdebug \
-    spark_beryllium-eng
+    beryllium-user \
+    beryllium-userdebug \
+    beryllium-eng
