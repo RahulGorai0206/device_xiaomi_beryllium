@@ -6,7 +6,8 @@
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
-# Inherit some common stuff.
+# Gapps build only.
+WITH_GMS := true
 
 # Define bootanimation resolution.
 TARGET_BOOT_ANIMATION_RES := 1080
