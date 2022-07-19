@@ -6,6 +6,9 @@
 
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
+# OTA updater.
+CUSTOM_BUILD_TYPE := Official
+
 # Gapps build only.
 WITH_GMS := true
 
