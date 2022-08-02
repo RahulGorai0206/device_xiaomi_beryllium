@@ -1,0 +1,14 @@
+[
+    {
+        "repository": "android_device_xiaomi_sdm845-common",
+        "target_path": "device/xiaomi/sdm845-common"
+    },
+    {
+        "repository": "android_device_xiaomi_beryllium",
+        "target_path": "device/xiaomi/beryllium"
+    },
+    {
+        "repository": "android_vendor_xiaomi_beryllium",
+        "target_path": "vendor/xiaomi"
+    }
+]
