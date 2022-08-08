@@ -4,3 +4,8 @@ vendor.display.enable_default_color_mode=1
 
 # FM
 vendor.hw.fm.init=0
+
+# Blur
+ro.surface_flinger.supports_background_blur=1
+ro.sf.blurs_are_expensive=0
+persist.sysui.disableBlur=false
