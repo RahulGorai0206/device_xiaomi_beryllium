@@ -17,6 +17,10 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 EXTRA_UDFPS_ANIMATIONS := false
 IS_PHONE := true
 
+# Official
+ELIXIR_MAINTAINER := Rahul Gorai
+ELIXIR_BUILD_TYPE := OFFICIAL
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_beryllium
 PRODUCT_DEVICE := beryllium
