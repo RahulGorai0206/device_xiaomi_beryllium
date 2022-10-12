@@ -3,9 +3,3 @@ persist.vendor.camera.perfcapture=1
 
 # Recovery
 ro.recovery.ui.margin_height=87
-
-# Spark-OS
-ro.spark.device.name=Poco F1
-ro.spark.group.url=https://telegram.me/pocof1sup
-ro.spark.maintainer=Rahul Gorai
-ro.spark.maintainer.username=RahulGorai
