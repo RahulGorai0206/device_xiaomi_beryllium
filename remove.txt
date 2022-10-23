@@ -1,5 +1,0 @@
-kernel/xiaomi
-vendor/xiaomi
-device/xiaomi
-packages/apps/memecam
-firmware/xiaomi/beryllium

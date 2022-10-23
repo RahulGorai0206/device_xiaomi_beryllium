@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_beryllium.mk
+    $(LOCAL_DIR)/blaze_beryllium.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_beryllium-user \
-    aosp_beryllium-userdebug \
-    aosp_beryllium-eng
+    blaze_beryllium-user \
+    blaze_beryllium-userdebug \
+    blaze_beryllium-eng
