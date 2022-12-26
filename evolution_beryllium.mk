@@ -7,17 +7,13 @@
 $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common stuff.
-$(call inherit-product, vendor/cherish/config/common_full_phone.mk)
+$(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_FACE_UNLOCK_SUPPORTED := true
 USE_PIXEL_CHARGING := true
-TARGET_INCLUDE_CARRIER_SETTINGS := true
-TARGET_USES_MINI_GAPPS := true
-PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cherish.maintainer=Wisky
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := cherish_beryllium
+PRODUCT_NAME := evolution_beryllium
 PRODUCT_DEVICE := beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := POCO F1
