@@ -1,0 +1,9 @@
+kernel/xiaomi
+vendor/xiaomi
+device/xiaomi
+hardware/qcom-caf/sdm845/display
+hardware/qcom-caf/sdm845/audio
+hardware/qcom-caf/sdm845/media
+external/tinyxml
+vendor/qcom/opensource/vibrator
+packages/apps/ViPER4AndroidFX
