@@ -1,6 +1,6 @@
 # Clone Kernel
 rm -rf kernel/xiaomi
-git clone https://github.com/PainKiller3/kernel_xiaomi_sdm845.git -b thirteen kernel/xiaomi/sdm845 --depth=1
+git clone https://github.com/Krtonia/kawaii_kernel_sdm845.git -b 13 kernel/xiaomi/sdm845 --depth=1
 
 # Clone ANXCam
 git clone https://gitlab.com/RahulGorai0206/packages_apps_memecam.git packages/apps/memecam --depth=1
