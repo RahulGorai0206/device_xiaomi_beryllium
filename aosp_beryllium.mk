@@ -18,7 +18,6 @@ EXTRA_UDFPS_ANIMATIONS := false
 IS_PHONE := true
 
 # Official
-ELIXIR_MAINTAINER := Wisky❤️‍🔥
 ELIXIR_BUILD_TYPE := OFFICIAL
 BUILD_USERNAME := Rahul
 BUILD_HOSTNAME := Elixir
