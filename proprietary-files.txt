@@ -200,7 +200,9 @@ system_ext/lib/libfm-hci.so|003aefcdd0725b78442c38095b441e6df111d445
 
 # FM (vendor) - from PNX - RKQ1.200906.002
 vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|4422f5912f3614468ccc06a2cce528a152828023
+vendor/lib64/vendor.qti.hardware.fm@1.0.so|17e86e9a2054db733d955fcf1066f6e06a44fb21
 vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so|a27bdc49e85976faa5785b175c92df54f962352a
+vendor/lib/vendor.qti.hardware.fm@1.0.so|ec14a34ecae5061d674283499a812374c8be4ce5
 
 # GNSS - from PNX - RKQ1.200906.002
 vendor/bin/hw/android.hardware.gnss@2.1-service-qti|bd3d5174f69cf65047c8d8b159554515b0f3d022

@@ -17,9 +17,7 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES += \
     FM2 \
     libqcomfm_jni \
-    qcom.fmradio \
-    vendor.qti.hardware.fm@1.0.vendor
-
+    qcom.fmradio
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
