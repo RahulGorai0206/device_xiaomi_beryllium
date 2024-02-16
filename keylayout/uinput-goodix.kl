@@ -7,7 +7,7 @@
 # Version 2 as published by the Free Software Foundation.
 #
 
-#key 96 DPAD_CENTER VIRTUAL
+key  96  CAMERA
 # HOME --> DPAD_CENTER
 #key 102 DPAD_CENTER VIRTUAL
 #key 105 DPAD_LEFT VIRTUAL
